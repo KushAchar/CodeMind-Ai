@@ -1,0 +1,1 @@
+"""Indexed repository persistence model."""

@@ -1,0 +1,1 @@
+"""Conversation-message persistence model."""
